@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Shopping-Cart-Application
 A React-based shopping cart application that provides a seamless shopping experience. This project features a dynamic cart system allowing users to add, remove, and update items in their cart. 
 >>>>>>> e13e2fbde3eed5ca143d1f32c099faca5bfc6b73
+=======
+# Shopping-Cart-Application
+A React-based shopping cart application that provides a seamless shopping experience. This project features a dynamic cart system allowing users to add, remove, and update items in their cart. 
+>>>>>>> 3657064a11ab4403839e9fcfffc59ded29885314
